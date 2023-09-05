@@ -1,3 +1,3 @@
 # aula1JUN
 exemplificarIC
-Teste de alteração 
+Novas alterações efetuadas no arquivo readme
